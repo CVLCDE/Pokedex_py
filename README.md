@@ -7,7 +7,7 @@ The name, number, typing, and pokemon's statistics are text values from the scra
 
 The PyQt5 was made using PyQt desisgner. I originally wrote the code manually, but it didn't come out the way I wanted it to and I figured it would be easier to just make everything in the designer. 
 
-The file to run in your terminal or text editor is pokedex_py.py. I tried creating an executable for the file (found under the "dist" folder), but its not working so ¯\_(ツ)_/¯.
+The file to run in your terminal or text editor is pokedex_py.py. I tried creating an executable for the file (found under the "dist" folder), but its not working so ¯\\_(ツ)_/¯.
 
 It might take a little while for everything to load, since it has to scrap a lot of fields, but it shouldn't take more than 3 seconds to load. 
 
